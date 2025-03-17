@@ -255,9 +255,7 @@
 //     },
 // });
 
-
-
-
+ 
 import React, { useEffect, useState } from 'react';
 import { View, Text, StatusBar, StyleSheet, ActivityIndicator } from 'react-native';
 import WebView from 'react-native-webview';
