@@ -1,4 +1,4 @@
-package com.learnify
+package com.learnifyAcademy
 
 import android.app.Application
 import com.facebook.react.PackageList
