@@ -53,7 +53,7 @@ export default function App() {
             ) : (
                 isConnected ? (
                     <WebView
-                        source={{ uri: 'https://pro.learnify-academy.com/' }}
+                        source={{ uri: 'https://learnify-academy.com/' }}
                         style={styles.webview}
                         scalesPageToFit={false}
                         javaScriptEnabled={true}
